@@ -23,8 +23,11 @@ The proposed solution integrates a Smart Question Bank with Dynamic Selection an
 
 ## Technology Stack
 Frontend: React.js (UI), TailwindCSS (Styling)
+
 Backend: Node.js (API), Django/Flask (ML Processing)
+
 AI/ML: TensorFlow/NLP Models for Answer Analysis
+
 Database: PostgreSQL/MongoDB (Question Bank & Candidate Data)
 
 
