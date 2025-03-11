@@ -11,16 +11,22 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+The proposed solution integrates a Smart Question Bank with Dynamic Selection and a Virtual Interview Bot for Preliminary Screening. The system personalizes questions based on the candidate’s expertise, dynamically adjusting difficulty levels for a more tailored evaluation. The AI-driven bot simulates real interview settings, engaging candidates in interactive Q&A sessions. AI-based scoring ensures objectivity by evaluating responses on relevance, correctness, and response time, enabling experts to assess candidates efficiently and without bias.
 
 ## Proposed Solution / Architecture Diagram
 
+![Architecture](https://github.com/user-attachments/assets/7664ed9b-4026-473c-b232-e8302a819e97)
 
 ## Use Cases
+![AI-Powered Interview System](https://github.com/user-attachments/assets/9d7f5fba-77fb-4b82-a66b-4e5c661d71ef)
 
 
 ## Technology Stack
+Frontend: React.js (UI), TailwindCSS (Styling)
+Backend: Node.js (API), Django/Flask (ML Processing)
+AI/ML: TensorFlow/NLP Models for Answer Analysis
+Database: PostgreSQL/MongoDB (Question Bank & Candidate Data)
 
 
 ## Dependencies
-
+OpenAI API (Chatbot), AWS/GCP (Cloud Hosting)
