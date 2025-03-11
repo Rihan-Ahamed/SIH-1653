@@ -11,7 +11,7 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-The proposed solution integrates a Smart Question Bank with Dynamic Selection and a Virtual Interview Bot for Preliminary Screening. The system personalizes questions based on the candidate’s expertise, dynamically adjusting difficulty levels for a more tailored evaluation. The AI-driven bot simulates real interview settings, engaging candidates in interactive Q&A sessions. AI-based scoring ensures objectivity by evaluating responses on relevance, correctness, and response time, enabling experts to assess candidates efficiently and without bias.
+The proposed solution integrates a Smart Question Bank with Dynamic Selection and an AI-powered Virtual Interview Bot for Preliminary Screening. It personalizes questions based on the candidate’s expertise and dynamically adjusts difficulty levels. The virtual bot simulates real interview settings, engaging candidates in interactive Q&A sessions while analyzing response time. AI-driven scoring ensures objectivity, evaluating answers based on relevance, correctness, and efficiency. This system minimizes human bias, enhances assessment accuracy, and streamlines expert evaluation. By automating preliminary screening, it reduces workload and ensures fair, data-driven hiring decisions. The solution enhances the Recruitment and Assessment Centre (RAC) under DRDO, making the process more efficient, scalable, and unbiased.
 
 ## Proposed Solution / Architecture Diagram
 
